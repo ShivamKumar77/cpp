@@ -12,5 +12,5 @@ int main()
     b=c;
     cout<<"The first number is:"<<a;
     cout<<"The second number is:"<<b;
-    return 0;
+    return 0;   
 }
